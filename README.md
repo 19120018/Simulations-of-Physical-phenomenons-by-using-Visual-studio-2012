@@ -1,0 +1,2 @@
+# Simulations-of-Physical-phenomenons-by-using-Visual-studio-2012
+Developed an upgrade programming Simulations of Planetary system, to predict the distribution of functional correlations of brain(Ising model and MFT), Growth of cancer cells in a human body(Cluster growth), how Ideal and Real pendulum behaves, SHO, and Time-independent Schorodinger equation. These are very prominent and Interesting phenomenons to observe.
